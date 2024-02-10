@@ -15,12 +15,10 @@ const replaceTemplate = (cardTemplate, data) => {
   updatedCard = updatedCard.replace(/{%DESCRIPTION%}/g, data.description);
   updatedCard = updatedCard.replace(/{%ID%}/g, data.id);
 
-  /*
   //urun organic degilse :
-  if (!product.organic){
+  if (!data.organic){
      return updatedCard = updatedCard.replace(/{%NOT_ORGANIC%}/g, 'not-organic')
   }
-   */
   
   return updatedCard
 };
