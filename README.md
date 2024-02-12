@@ -4,8 +4,7 @@
 
 2. I positioned the JS file as a server and enabled it to respond to incoming requests.
 
-3. Nodemon - npm install -g nodemon => is a tool that helps develop Node.js based applications by automatically    
-             restarting the node application when file changes in the directory are detected. 
+3. Nodemon - npm install -g nodemon => is a tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected. 
 
 4. We needed the following modules of Node.js:
     - const fs = require('fs')
