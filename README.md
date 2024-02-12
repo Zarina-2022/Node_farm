@@ -27,7 +27,6 @@
 6. The API I wrote in this example returns the html response, not the json response.
 
 7. Gif of the project:
-  
   ![](node_farm.mov)
 
 Enjoy coding 🩷 
