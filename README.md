@@ -28,6 +28,6 @@
 
 7. Gif of the project:
   
-  ![](node_farm.mp4)
+  ![](node_farm.gif)
 
 Enjoy coding 🩷 
